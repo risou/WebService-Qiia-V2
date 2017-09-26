@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "Qiita API(v2) Client",
    "author" : [
       "risou <risou.f@gmail.com>"
    ],
@@ -52,5 +52,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/risou/WebService-Qiita-V2/issues"
+      },
+      "homepage" : "https://github.com/risou/WebService-Qiita-V2",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/risou/WebService-Qiita-V2.git",
+         "web" : "https://github.com/risou/WebService-Qiita-V2"
+      }
+   },
    "version" : "0.01"
 }
