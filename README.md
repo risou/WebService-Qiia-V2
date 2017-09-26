@@ -17,6 +17,8 @@ WebService::Qiita::V2 - Qiita API(v2) Client
 WebService::Qiita::V2 is a client of Qiita API V2 for Perl.
 This module wrapped all Qiita API(not include deprecated).
 
+API document: https://qiita.com/api/v2/docs
+
 # AUTHOR
 
 risou <risou.f@gmail.com>
