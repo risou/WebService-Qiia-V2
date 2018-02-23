@@ -42,11 +42,15 @@
       },
       "runtime" : {
          "requires" : {
+            "Crypt::SSLeay" : "0.72",
+            "JSON" : "2.97001",
+            "LWP::UserAgent" : "6.32",
             "perl" : "5.008001"
          }
       },
       "test" : {
          "requires" : {
+            "Test::Fatal" : "0.014",
             "Test::More" : "0.98"
          }
       }
